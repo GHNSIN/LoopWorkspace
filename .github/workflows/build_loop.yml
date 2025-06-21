@@ -293,6 +293,8 @@ jobs:
           now_line \
           2002 \
           basal_lock \
+          live_activity \
+          negative_insulin \
           watch_title
 
           # the final customization listed above CANNOT have a continuation character "\"
